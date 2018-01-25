@@ -1,5 +1,5 @@
 public class Employee {
-	public String name; //ì°¸ì¡°ë³€ìˆ˜:null, ê°ì²´ë³€ìˆ˜
+	public String name; //ÂüÁ¶º¯¼ö:null, °´Ã¼º¯¼ö
 	public double salary;// 0.0
 	public Employee(String name) {
 		this.name = name;
