@@ -1,5 +1,5 @@
 public class Employee {
-	public String name; //참조변수:null, 객체변수
+	public String name; //
 	public double salary;// 0.0
 	public Employee(String name) {
 		this.name = name;
