@@ -15,7 +15,7 @@ public class ListTest {
 			System.out.println(list.get(i));
 		}
 		ArrayList<Integer> intList;
-		int x = new Integer(1); //ì˜¤í† ì–¸ë°•ì‹±
-		Integer y = 10; //ì˜¤í† ë°•ì‹±
+		int x = new Integer(1);//¿ÀÅä¾ğ¹Ú½Ì
+		Integer y = 10; //¿ÀÅä¹Ú½Ì
 	}
 }
