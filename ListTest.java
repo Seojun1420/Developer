@@ -16,6 +16,6 @@ public class ListTest {
 		}
 		ArrayList<Integer> intList;
 		int x = new Integer(1); //오토언박싱
-		Integer y = 10; //
+		Integer y = 10; //오토박싱
 	}
 }
