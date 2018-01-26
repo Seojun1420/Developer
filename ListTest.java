@@ -15,7 +15,7 @@ public class ListTest {
 			System.out.println(list.get(i));
 		}
 		ArrayList<Integer> intList;
-		int x = new Integer(1);
-		Integer y = 10;
+		int x = new Integer(1); //오토언박싱
+		Integer y = 10; //
 	}
 }
